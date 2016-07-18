@@ -14,5 +14,6 @@ Username: admin
 password: secret
 ```
 ##Screenshots
+![defaultcover](https://cloud.githubusercontent.com/assets/17027820/16918264/b4b80950-4cb9-11e6-9fc6-c56b877dcabb.jpg)
 
 
