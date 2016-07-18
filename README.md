@@ -32,11 +32,11 @@ password: secret
 
 ![adminpage](https://cloud.githubusercontent.com/assets/17027820/16921504/a7f7a2c2-4cc6-11e6-962c-afe6d02d9860.jpg)
 
-*Delete Item
+* Delete Item
 
 ![deleteitem](https://cloud.githubusercontent.com/assets/17027820/16921486/9adc565a-4cc6-11e6-9215-b30f0c9f0e4d.jpg)
 
-*UpdateImage
+* UpdateImage
 
 ![updateimage](https://cloud.githubusercontent.com/assets/17027820/16921493/9fe80748-4cc6-11e6-8783-3f1bb692bf67.jpg)
 
